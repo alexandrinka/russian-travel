@@ -11,4 +11,4 @@
 
 **Ссылка на сайт**
 
-* [Путешествия по России](http://alexandrinka-russian-travel.ru/)
+[Путешествия по России](http://alexandrinka-russian-travel.ru/)
