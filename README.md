@@ -11,4 +11,4 @@
 
 **Ссылка на сайт**
 
-[Путешествия по России](https://alexandrinka.github.io/new-russian-travel/)
+[Путешествия по России](https://alexandrinka.github.io/russian-travel/)
